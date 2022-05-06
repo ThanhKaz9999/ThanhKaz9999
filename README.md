@@ -1,4 +1,4 @@
-
+```lua
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
 local Ui = Library.CreateLib("Kaz Hub", "Ocean")
@@ -131,4 +131,4 @@ Section2:NewToggle("Auto Rebirths", "Not Things", function(Rebirths)
         end
     end)
 --Map 2
-
+```
